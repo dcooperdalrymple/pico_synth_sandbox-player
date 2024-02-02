@@ -1,0 +1,14 @@
+{
+    "volume": 1.0,
+    "midi_channel": 0,
+    "songs": [
+        {
+            "title": "Song #1",
+            "audio": "song1.wav",
+            "midi": "song1.midi",
+            "key": 1,
+            "notenum": 1,
+            "volume": 1.0
+        }
+    ]
+}
